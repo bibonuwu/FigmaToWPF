@@ -1,0 +1,14 @@
+C:\Users\Bibon\source\repos\FigmaToWPF\FigmaToWPF\bin\Debug\FigmaToWPF.exe.config
+C:\Users\Bibon\source\repos\FigmaToWPF\FigmaToWPF\bin\Debug\FigmaToWPF.exe
+C:\Users\Bibon\source\repos\FigmaToWPF\FigmaToWPF\bin\Debug\FigmaToWPF.pdb
+C:\Users\Bibon\source\repos\FigmaToWPF\FigmaToWPF\obj\Debug\FigmaToWPF.csproj.AssemblyReference.cache
+C:\Users\Bibon\source\repos\FigmaToWPF\FigmaToWPF\obj\Debug\MainWindow.baml
+C:\Users\Bibon\source\repos\FigmaToWPF\FigmaToWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Bibon\source\repos\FigmaToWPF\FigmaToWPF\obj\Debug\App.g.cs
+C:\Users\Bibon\source\repos\FigmaToWPF\FigmaToWPF\obj\Debug\FigmaToWPF_MarkupCompile.cache
+C:\Users\Bibon\source\repos\FigmaToWPF\FigmaToWPF\obj\Debug\FigmaToWPF.g.resources
+C:\Users\Bibon\source\repos\FigmaToWPF\FigmaToWPF\obj\Debug\FigmaToWPF.Properties.Resources.resources
+C:\Users\Bibon\source\repos\FigmaToWPF\FigmaToWPF\obj\Debug\FigmaToWPF.csproj.GenerateResource.cache
+C:\Users\Bibon\source\repos\FigmaToWPF\FigmaToWPF\obj\Debug\FigmaToWPF.csproj.CoreCompileInputs.cache
+C:\Users\Bibon\source\repos\FigmaToWPF\FigmaToWPF\obj\Debug\FigmaToWPF.exe
+C:\Users\Bibon\source\repos\FigmaToWPF\FigmaToWPF\obj\Debug\FigmaToWPF.pdb

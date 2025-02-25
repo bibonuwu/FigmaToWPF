@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bibon\\source\\repos\\FigmaToWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA4B15F-289C-416E-909E-7DAC199EC2DB}|FigmaToWPF\\FigmaToWPF.csproj|C:\\Users\\Bibon\\source\\repos\\FigmaToWPF\\figmatowpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA4B15F-289C-416E-909E-7DAC199EC2DB}|FigmaToWPF\\FigmaToWPF.csproj|solutionrelative:figmatowpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA4B15F-289C-416E-909E-7DAC199EC2DB}|FigmaToWPF\\FigmaToWPF.csproj|c:\\users\\bibon\\source\\repos\\figmatowpf\\figmatowpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9DA4B15F-289C-416E-909E-7DAC199EC2DB}|FigmaToWPF\\FigmaToWPF.csproj|solutionrelative:figmatowpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Bibon\\source\\repos\\FigmaToWPF\\FigmaToWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "FigmaToWPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Bibon\\source\\repos\\FigmaToWPF\\FigmaToWPF\\MainWindow.xaml",
+              "RelativeToolTip": "FigmaToWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-24T12:57:26.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Bibon\\source\\repos\\FigmaToWPF\\FigmaToWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FigmaToWPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Bibon\\source\\repos\\FigmaToWPF\\FigmaToWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "FigmaToWPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T12:57:25.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
